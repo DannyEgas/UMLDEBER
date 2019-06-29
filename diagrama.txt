@@ -1,0 +1,21 @@
+*DIAGRAMA DE CLASES
+
+En UML el diagrama de clases es uno de los tipos de diagramas o símbolo estático y tiene como fin describir la estructura de un sistema mostrando sus clases, atributos y relaciones entre ellos.
+
+Estos diagramas son utilizados durante el proceso de análisis y diseño de los sistemas informáticos, en donde se intentan conformar el diagrama conceptual de la información que se manejará en el sistema.
+
+Como ya sabemos UML es un modelado de sistema Orientados a Objetos, por ende los conceptos de este paradigma se incorporan a este lenguaje de modelado.
+
+
+*DIAGRAMA DE OBJETOS
+
+Forma parte de la vista estática del sistema. En este diagrama se modelan las instancias de la clases del Diagrama de Clases. Este diagrama cabe aclarar que cuenta con objetos y enlaces. En estos diagramas también es posible encontrar las clases para tomar como referencia su instanciación.
+
+
+*Diagrama de Colaboración
+
+Un diagrama de colaboración, se puede decir que es una forma alternativa al diagrama de secuencias a la hora de mostrar un escenario.
+Este tipo de diagrama muestra las interacciones que ocurren entre los objetos que participan en una situación determinada.
+A diferencia del diagrama de secuencia, el diagrama de colaboración se enfoca en la relación entre los objetos y su topología de comunicación.
+
+En estos diagramas los mensajes enviados de un objeto a otro se representa mediante flechas, acompañado del nombre del mensaje, los parámetros y la secuencia del mensaje. 
