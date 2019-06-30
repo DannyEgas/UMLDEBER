@@ -19,3 +19,19 @@ Este tipo de diagrama muestra las interacciones que ocurren entre los objetos qu
 A diferencia del diagrama de secuencia, el diagrama de colaboración se enfoca en la relación entre los objetos y su topología de comunicación.
 
 En estos diagramas los mensajes enviados de un objeto a otro se representa mediante flechas, acompañado del nombre del mensaje, los parámetros y la secuencia del mensaje. 
+
+Diagrama de despliegue:
+Es un tipo de diagrama del Lenguaje Unificado de Modelado que se utiliza para modelar la disposición física de los artefactos software en nodos (usualmente plataforma de hardware).
+
+Diagrama de componentes:
+Un diagrama de componentes representa cómo un sistema de software es dividido en componentes y muestra las dependencias entre estos componentes, muestra la organización y las dependencias entre un conjunto de componentes.
+
+Diagrama de estructura:
+Es un tipo de diagrama en el Lenguaje de Modelado Unificado (UML), que muestra la estructura interna de una clase y las colaboraciones que esta estructura hace posibles. 
+
+Diagrama de paquetes:
+Representa las dependencias entre los paquetes que componen un modelo. Es decir, muestra cómo un sistema está dividido en agrupaciones lógicas y las dependencias entre esas agrupaciones.
+
+
+
+
