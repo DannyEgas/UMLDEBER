@@ -37,4 +37,13 @@ Representa las dependencias entre los paquetes que componen un modelo. Es decir,
 se pueden usar para modelar un Caso de Uso, o una clase, o un método complicado.
 
 
+ *Diagramas de secuencia:suelen usarse para representar objetos software y el intercambio de mensajes entre ellos, representando la aparición de nuevos objetos de izquierda a derecha.
+
+ *Diagramas de colaboración:suelen usarse para representar objetos o clases y la forma en que se transmiten mensajes y colaboran entre ellos para cumplir un objetivo.
+
+ *Diagramas de estados:suelen usarse para representar cómo evoluciona un sistema (cómo va cambiando de estado) a medida que se producen determinados eventos.
+
+ *Otros diagramas:diagramas de actividad, diagramas de paquetes, diagramas de arquitectura software, etc.
+
+
 
