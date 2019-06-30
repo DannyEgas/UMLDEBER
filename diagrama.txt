@@ -33,5 +33,8 @@ Diagrama de paquetes:
 Representa las dependencias entre los paquetes que componen un modelo. Es decir, muestra cómo un sistema está dividido en agrupaciones lógicas y las dependencias entre esas agrupaciones.
 
 
+ *El DIAGRAMA DE ACTIVIDAD es un diagrama de flujo del proceso multi-propósito que se usa para modelar el comportamiento del sistema. Los diagramas de actividad 
+se pueden usar para modelar un Caso de Uso, o una clase, o un método complicado.
+
 
 
